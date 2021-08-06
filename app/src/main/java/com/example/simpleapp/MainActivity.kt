@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         var a = 12
+        var b = 10
 
         // Yangilik qo'shildi
     }
